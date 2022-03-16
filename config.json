@@ -1,0 +1,20 @@
+{
+  "owners": ["YOUR_ID"],
+  "defaultPerms": ["SEND_MESSAGES"],
+  "SPOTIFY_ID": "",
+  "SPOTIFY_SECRET": "",
+  "SPOTIFY_PLAYLIST_PAGE_LIMIT": 10,
+  "SOUNDCLOUD_API_KEY": "",
+  "MONGODB_URI": "",
+  "nodes": [
+    {
+      "name": "Node-01",
+      "host": "lava.link",
+      "port": 80,
+      "auth": "youshallnotpass",
+      "secure": false
+    }
+  ],
+  "spotify": "https://open.spotify.com/",
+  "LavaSecure": false
+}
